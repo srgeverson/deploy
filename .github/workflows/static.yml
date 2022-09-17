@@ -1,0 +1,14 @@
+name: Deploy SGU WEB
+
+on: [push]
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Executa Comandos com valores secretos
+        env:
+            PUBLIC_URL: ${{ secrets.PUBLIC_URL }}
+        run: |
+          echo "Olá...."
+          echo "O valor secreto: $PUBLIC_URL"
