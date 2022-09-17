@@ -1,0 +1,11 @@
+name: Environment Variables Workflow
+
+on: [push]
+
+env:
+  WORKFLOW_VARIABLE: WORKFLOW
+  PUBLIC_URL: deploy
+  SERVER_URL: http://mystore-app.ddns.net
+  SERVER_PORT: 8181
+  CLIENT_ID: api_node
+  CLIENT_SECRET: 123321
