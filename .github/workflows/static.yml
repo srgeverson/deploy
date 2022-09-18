@@ -12,3 +12,4 @@ jobs:
         run: |
           echo "Olá...."
           echo "O valor secreto: $PUBLIC_URL"
+          printenv
