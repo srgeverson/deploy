@@ -12,4 +12,5 @@ jobs:
         run: |
           echo "Olá...."
           echo "O valor secreto: $PUBLIC_URL"
+          echo 'export PUBLIC_URL=deploy/sgu_web' >>  $HOME/.bashrc
           printenv
