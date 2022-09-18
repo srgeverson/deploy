@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sgu_web/static/css/main.82c59042.css",
-    "main.js": "/sgu_web/static/js/main.b87bea84.js",
-    "static/media/logo_sistema.png": "/sgu_web/static/media/logo_sistema.5c35611e726f84e868d2.png",
-    "index.html": "/sgu_web/index.html",
-    "main.82c59042.css.map": "/sgu_web/static/css/main.82c59042.css.map",
-    "main.b87bea84.js.map": "/sgu_web/static/js/main.b87bea84.js.map"
+    "main.css": "/deploy/static/css/main.82c59042.css",
+    "main.js": "/deploy/static/js/main.940a72cd.js",
+    "static/media/logo_sistema.png": "/deploy/static/media/logo_sistema.5c35611e726f84e868d2.png",
+    "index.html": "/deploy/index.html",
+    "main.82c59042.css.map": "/deploy/static/css/main.82c59042.css.map",
+    "main.940a72cd.js.map": "/deploy/static/js/main.940a72cd.js.map"
   },
   "entrypoints": [
     "static/css/main.82c59042.css",
-    "static/js/main.b87bea84.js"
+    "static/js/main.940a72cd.js"
   ]
 }
