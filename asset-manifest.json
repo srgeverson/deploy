@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.82c59042.css",
-    "main.js": "./static/js/main.bd310d9f.js",
-    "static/media/logo_sistema.png": "./static/media/logo_sistema.5c35611e726f84e868d2.png",
-    "index.html": "./index.html",
-    "main.82c59042.css.map": "./static/css/main.82c59042.css.map",
-    "main.bd310d9f.js.map": "./static/js/main.bd310d9f.js.map"
+    "main.css": "/deploy/static/css/main.82c59042.css",
+    "main.js": "/deploy/static/js/main.9ef04d73.js",
+    "static/media/logo_sistema.png": "/deploy/static/media/logo_sistema.5c35611e726f84e868d2.png",
+    "index.html": "/deploy/index.html",
+    "main.82c59042.css.map": "/deploy/static/css/main.82c59042.css.map",
+    "main.9ef04d73.js.map": "/deploy/static/js/main.9ef04d73.js.map"
   },
   "entrypoints": [
     "static/css/main.82c59042.css",
-    "static/js/main.bd310d9f.js"
+    "static/js/main.9ef04d73.js"
   ]
 }
